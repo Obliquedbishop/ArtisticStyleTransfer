@@ -1,4 +1,4 @@
-# DashtoonAssignment
+# Artistic Neural Style Transfer Model
 
 Implementation of the _Perceptual Losses Neural Style Transfer_ model in the paper:
 
